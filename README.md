@@ -41,16 +41,11 @@ Send a POST request to `/addcost/` with the cost item details.
 
 Send a GET request to `/report/` with `user_id`, `year`, and `month` parameters.
 
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
-
 ## Authors
 
-- **Your Name**
+- **Shai Shillo**
+- **Yarin Ben-Moshe**
+- **Roman Agbyev**
 
 See also the list of contributors.
 
-## License
-
-This project is licensed under the MIT License.
