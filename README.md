@@ -26,7 +26,7 @@ Daily Cost Manager is a RESTful web service developed using Node.js and Express.
    `cd Daily-Cost-Manager`
 3. Install dependencies:
    `npm install`
-4. Create a `.env` file for MongoDB URI:
+4. Create an `.env` file for MongoDB URI:
    `DB_URI=mongodb+srv://<your_mongodb_atlas_uri>`
 5. Start the server:
    `npm start`
